@@ -1,3 +1,5 @@
+<img width="947" height="912" alt="Screenshot 2026-06-24 172346" src="https://github.com/user-attachments/assets/d7be2fec-27bf-4401-bc5d-e12f5d9e259d" />
+
 An interactive geography game built with Python's Turtle graphics library. Test your knowledge of the 50 U.S States!
 
 Features:
